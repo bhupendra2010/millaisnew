@@ -1,0 +1,69 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8679125700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.open()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "vacancy",
+        "description": "",
+        "id": "user-want-to-search-for-the-vacancy;vacancy",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5477022000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on homepage",
+            "match": {
+              "location": "StepDefVacany.user_is_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1256322400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigate to vacancies option",
+            "match": {
+              "location": "StepDefVacany.user_navigate_to_vacancies_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 31900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User should easily find out available vacancy",
+            "match": {
+              "location": "StepDefVacany.user_should_easily_find_out_available_vacancy()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "User want to search for the vacancy",
+    "description": "",
+    "id": "user-want-to-search-for-the-vacancy",
+    "keyword": "Feature",
+    "uri": "C:/Users/bhupe/Millais.co.uk/src/test/Resources/vacancy.feature"
+  }
+]

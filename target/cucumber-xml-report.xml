@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="15.412502">
+<testcase classname="User want to search for the vacancy" name="vacancy" time="15.412502">
+<system-out><![CDATA[Given User is on homepage...................................................passed
+When User navigate to vacancies option......................................passed
+Then User should easily find out available vacancy..........................passed
+]]></system-out>
+</testcase>
+</testsuite>

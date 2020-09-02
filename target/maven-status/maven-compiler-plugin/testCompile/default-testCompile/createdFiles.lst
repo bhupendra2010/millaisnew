@@ -1,0 +1,6 @@
+org\Millais\com\Stepdefpackage\StepDefVacany.class
+org\Millais\com\Runner.class
+org\Millais\com\Commonpackage\DriverFactory.class
+org\Millais\com\Commonpackage\Hooks.class
+org\Millais\com\PageObjectpackage\VacancyPage.class
+org\Millais\com\AppTest.class

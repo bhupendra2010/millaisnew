@@ -1,0 +1,6 @@
+Feature: User want to search for the vacancy
+
+  Scenario: vacancy                                    [90m# C:/Users/bhupe/Millais.co.uk/src/test/Resources/vacancy.feature:3[0m
+    [32mGiven [0m[32mUser is on homepage[0m                          [90m# StepDefVacany.user_is_on_homepage()[0m
+    [32mWhen [0m[32mUser navigate to vacancies option[0m             [90m# StepDefVacany.user_navigate_to_vacancies_option()[0m
+    [32mThen [0m[32mUser should easily find out available vacancy[0m [90m# StepDefVacany.user_should_easily_find_out_available_vacancy()[0m
